@@ -12,7 +12,7 @@
 
 ## Status
 - **Archived** (not under active development).  
-- This project was discontinued and will not be revised further.  
+- This project was discontinued.  
 
 ## Files
 - `draft.pdf` : Full paper draft.  
