@@ -1,22 +1,18 @@
 # Archived Research
 
-This repository contains research projects and papers that have been **discontinued** and are no longer under active development.  
+This repository contains **discontinued research projects and papers** that are no longer under active development.  
+It serves both as a **personal archive** and a **public reference** for anyone interested in these past works.
 
 ## Purpose
-- **Record-keeping**: Preserving drafts, code, and notes from past projects.  
-- **Transparency**: Sharing these materials publicly so others can reference them.  
+- Preserve drafts, code, and notes from projects that were not continued.  
+- Provide transparency by sharing materials that may still hold reference value.  
 
 ## Structure
-- Each folder corresponds to a specific project.  
-- Typical contents include:
-  - `draft.pdf` : main paper draft  
-  - `code/` : analysis scripts (if available)  
-  - `README.md` : short description of the project and why it was archived  
+Each folder corresponds to a single research project:
+- `draft.pdf` : main paper draft  
+- `code/` : analysis scripts (R)  
+- `data/` : sample or processed datasets (sensitive raw data excluded)  
+- `README.md` : short project description and reason for archiving  
 
-## Note
-- These projects are **archived** and not maintained.  
-- Materials are provided *as-is* and may be incomplete.  
-- If you reuse ideas or code, please provide proper attribution.  
-
-## License
-Released under the MIT License (see LICENSE file).
+## Archieved Paper List:
+- **Public Housing and Public Schools**
